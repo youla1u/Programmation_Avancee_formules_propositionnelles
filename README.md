@@ -48,9 +48,3 @@ Dernière version du sujet : 16 août 2019
 12. Vérification de satisfiabilité via la FND.
 
 ---
-
-## ⚙️ Installation & Exécution
-1. Cloner ce dépôt :
-   ```bash
-   git clone https://github.com/<utilisateur>/<repo>.git
-   cd <repo>
