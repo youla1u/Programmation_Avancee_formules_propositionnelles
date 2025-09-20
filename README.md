@@ -1,6 +1,4 @@
 # TP Algorithmique & Programmation – Logique Propositionnelle
-Université de Lorraine – FST  
-Cours de Jean Lieber (IMSD)  
 Dernière version du sujet : 16 août 2019  
 
 ---
