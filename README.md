@@ -33,7 +33,7 @@ Dernière version du sujet : 16 août 2019
 
 ---
 
-## 🧩 Exercices
+## 🧩 Tâches réalisées
 1. Représentation et affichage de formules.
 2. Comptage des interprétations satisfaisantes.
 3. Vérification de la **satisfiabilité**.
